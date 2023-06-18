@@ -1,0 +1,10 @@
+Address Book: My Personal Data
+Name: Battu Sairam
+Address: Kondapur
+City: Kamareddy
+State: Telangana
+ZIP: 503211
+Phone: 9848012345
+Email: Sairam@gmail.com
+
+
